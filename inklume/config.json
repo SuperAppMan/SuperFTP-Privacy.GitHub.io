@@ -1,0 +1,12 @@
+{
+  "ads": {
+    "enabled": true,
+    "first_session_grace_min": 30,
+    "ad_cache_ttl_s": 3600,
+    "interstitial": { "min_interval_s": null, "per_session": null, "per_day": null },
+    "rewarded": { "per_day": null, "fallback_grant_after_failures": 3, "load_timeout_s": 5 },
+    "native_gallery_every": 12,
+    "paywall_cooldown_s": 60
+  },
+  "paywall": { "show_after_first_tryon": true, "default_plan": "yearly" }
+}

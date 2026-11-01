@@ -1,0 +1,14 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "wa",
+   "version": 1,
+   "url": "https://superappman.github.io/SuperFTP-Privacy.GitHub.io/inklume/packs/wa_v1.zip",
+   "sha256": "1fcbcef6e57a356fcd94e073e61a5ba390faab98bcb42a85df1e86d7333ef995",
+   "bytes": 13854,
+   "designs": 9,
+   "product": "collection_wa"
+  }
+ ]
+}
